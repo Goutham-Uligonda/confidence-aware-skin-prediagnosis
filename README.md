@@ -1,6 +1,5 @@
 ---
 title: DermIntelligent
-emoji: 🔬
 colorFrom: green
 colorTo: blue
 sdk: docker
@@ -325,7 +324,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 **Goutham Uligonda**  
 GitHub: [@Goutham-Uligonda](https://github.com/Goutham-Uligonda)
-
+Website link: [@Dermintelligent](https://jaganbatna.github.io/confidence-aware-skin-prediagnosis/Frontend/index.html)
 ---
 
 *Built as a Capstone Project — AI-powered skin disease pre-diagnosis with confidence-aware reasoning.*
