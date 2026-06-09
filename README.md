@@ -1,12 +1,8 @@
 ---
-title: DermIntelligent
-colorFrom: green
-colorTo: blue
-sdk: docker
-pinned: false
+
 ---
 
-# 🔬 DermAI — Confidence-Aware Skin Pre-Diagnosis System
+# 🔬 DermIntelligent — Confidence-Aware Skin Pre-Diagnosis System
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green?style=flat-square&logo=fastapi)
@@ -324,7 +320,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 **Goutham Uligonda**  
 GitHub: [@Goutham-Uligonda](https://github.com/Goutham-Uligonda)
-Website link: [@Dermintelligent](https://jaganbatna.github.io/confidence-aware-skin-prediagnosis/Frontend/index.html)
+Website link: [DermIntelligent](https://jaganbatna.github.io/confidence-aware-skin-prediagnosis/Frontend/index.html)
 ---
 
 *Built as a Capstone Project — AI-powered skin disease pre-diagnosis with confidence-aware reasoning.*
