@@ -319,8 +319,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 👤 Author
 
 **Goutham Uligonda**  
-GitHub: [@Goutham-Uligonda](https://github.com/Goutham-Uligonda)
-Website link: [DermIntelligent](https://jaganbatna.github.io/confidence-aware-skin-prediagnosis/Frontend/index.html)
+# GitHub: [@Goutham-Uligonda](https://github.com/Goutham-Uligonda)
+# Website link: [DermIntelligent](https://jaganbatna.github.io/confidence-aware-skin-prediagnosis/Frontend/index.html)
 ---
 
 *Built as a Capstone Project — AI-powered skin disease pre-diagnosis with confidence-aware reasoning.*
